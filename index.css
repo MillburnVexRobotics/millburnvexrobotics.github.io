@@ -2,3 +2,19 @@ img {
 	width: 100%;
 	height: auto;
 }
+
+.card-image > img {
+	transition: all 1s ease; /* General */
+	-webkit-transition: all 1s ease; /* Safari and Chrome */
+	-moz-transition: all 1s ease; /* Safari and Chrome */
+	-ms-transition: all 1s ease; /* Safari and Chrome */
+	-o-transition: all 1s ease; /* Safari and Chrome */
+}
+
+.card-image > img:hover {
+	transform:scale(1.05); /* General */
+	-webkit-transform:scale(1.05); /* Safari and Chrome */
+	-moz-transform:scale(1.05); /* Safari and Chrome */
+	-ms-transform:scale(1.05); /* Safari and Chrome */
+	-o-transform:scale(1.05); /* Safari and Chrome */
+}
