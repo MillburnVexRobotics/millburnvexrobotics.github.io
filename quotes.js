@@ -11,7 +11,7 @@ var mostInterestingManQuotes = [
 	"He can speak french in russian.",
 	"He divorced his wife because he caught her littering.",
 	"He doesn’t believe in using oven mitts, nor potholders.",
-	"He has amassed an incredibly large DVD library and it is said he never once alphabetized i.",
+	"He has amassed an incredibly large DVD library and it is said he never once alphabetized it.",
 	"He has been known to cure narcolepsy just by walking into the room.",
 	"He has crossed the point of no return – on several occasions.",
 	"He has inside jokes with complete strangers.",
