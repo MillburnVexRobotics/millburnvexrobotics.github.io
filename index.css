@@ -3,6 +3,11 @@ img {
 	height: auto;
 }
 
+img .hero {
+	height: auto;
+	width: 100%;
+}
+
 .card-image > img {
 	transition: all 1s ease; /* General */
 	-webkit-transition: all 1s ease; /* Safari and Chrome */
